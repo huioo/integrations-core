@@ -32,6 +32,7 @@ AGENT_BASED_INTEGRATIONS = [
     'envoy',
     'exchange_server',
     'haproxy',
+    'http_check',
     'iis',
     'istio',
     'kafka_consumer',
